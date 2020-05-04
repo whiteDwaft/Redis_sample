@@ -1,4 +1,4 @@
-##### Node 
+### Manual 
 Запуск контейнера с Redis
 
 __docker run -d --name <имя_контейнера_redis> -p 8080:6379 redis__
